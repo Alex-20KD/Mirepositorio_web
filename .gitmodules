@@ -1,0 +1,4 @@
+[submodule "practica3/ASW-2025-1"]
+	path = practica3/ASW-2025-1
+	url = https://github.com/Alex-20KD/ASW-2025-1.git
+	branch = main
